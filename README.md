@@ -12,3 +12,6 @@ Then, I made a class of Curve. It consists of 4 vertices. These 4 vertices will 
 Bezier Surface will be divided into two sub surface in respect to rows and they are divided again into two sub surface in respect to columns, again. In this project, I iterated surface dividing process 3 times.
 
 After it finish dividing process, the surface, exactly 8 different curves, will be rendered. To be specific, 8 different curves of the surface will be rendered.
+
+The below is encoded video of 100 images.
+https://youtu.be/kyu2q0a8NUA
