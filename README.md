@@ -2,8 +2,8 @@
 
 Set the path of your VTK on the CMakeList.txt before you run the code.
 
-In this project, I draw splines using de Castejau Algorithm. https://en.wikipedia.org/wiki/De_Casteljau%27s_algorithm
-To draw splines, I implement Bezier curves of order 3 in this project using C++, VTK.
+In this project, I draw splines using de Castejau Algorithm using C++ and VTK.
+
 
 First, I made a class of Line. It draws a line that consists of two vertices.
 
@@ -14,4 +14,4 @@ Bezier Surface will be divided into two sub surface in respect to rows and they 
 After it finish dividing process, the surface, exactly 8 different curves, will be rendered. To be specific, 8 different curves of the surface will be rendered.
 
 The below is encoded video of 100 images.
-https://youtu.be/kyu2q0a8NUA
+* [Link](https://youtu.be/kyu2q0a8NUA)
